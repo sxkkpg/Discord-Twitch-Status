@@ -1,14 +1,9 @@
 <div align="center">
 
-# 🟣 Discord Twitch Status Selfbot
+# 🟣 Discord Twitch Status
 
-**Keep your Discord account online 24/7 with rotating Twitch streaming presence**
-
-![Preview](https://github.com/sxkkpg/Discord-Twitch-Status/blob/cf92a4d844a378a002b1664768d5daa938b2cd13/ex.png)
-
-[![PTI Shop](https://img.shields.io/badge/PTI%20Shop-Link%20Tree-blueviolet?style=for-the-badge&logo=discord)](https://YOUR_LINKTREE_URL_HERE)
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![discord.py-self](https://img.shields.io/badge/discord.py--self-latest-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![ME](https://img.shields.io/badge/PTI%20Shop-Link%20Tree-blueviolet?style=for-the-badge&logo=linktree&logoColor=white)]([https://linktree.work/])
+[![PTI Shop](https://img.shields.io/badge/PTI%20Shop-Link%20Tree-blueviolet?style=for-the-badge&logo=discord)](https://discord.com/invite/hbpkubNgHT)
 
 </div>
 
@@ -16,19 +11,10 @@
 
 ## ✨ Features
 
-- 🎮 **Rotating Twitch streaming status** — cycles through multiple stream titles automatically
-- 🔁 **Runs 24/7** — designed to keep your account always online
-- 🎙️ **Two versions available** — with or without auto voice channel join
-- 🔐 **Token stored in `.env`** — safe and easy to configure
-
----
-
-## 📁 Versions
-
-| File | Description |
-|------|-------------|
-| `twitchnovoice.py` | Rotating Twitch status only — no voice channel |
-| `twitchvoice.py` | Rotating Twitch status **+ auto joins a voice channel** |
+- **Rotating Twitch streaming status** — cycles through multiple stream titles automatically
+- **Runs 24/7** — designed to keep your account always online
+- **Two versions available** — with or without auto voice channel join
+- **Token stored in `.env`** — safe and easy to configure
 
 ---
 
@@ -53,8 +39,6 @@ pip install discord.py-self python-dotenv
 TOKEN=your_discord_token_here
 ```
 
-> ⚠️ **Warning:** Using a selfbot may violate Discord's Terms of Service. Use at your own risk.
-
 ### 4. Edit values in the script
 
 Open your chosen `.py` file and adjust:
@@ -67,19 +51,12 @@ Open your chosen `.py` file and adjust:
 
 ```bash
 python twitchnovoice.py
-# or
+or
 python twitchvoice.py
 ```
 
 ---
 
-## 🔗 Links
-
-- 🌐 [PTI Shop](https://YOUR_LINKTREE_URL_HERE)
-- 💬 Discord: `sxkkp.d`
-
----
-
 <div align="center">
-Made with 💜 by <a href="https://YOUR_LINKTREE_URL_HERE">PTI Shop</a>
+Made with 💜 by <a href="https://discord.gg/hbpkubNgHT">PTI Shop</a>
 </div>
