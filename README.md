@@ -2,7 +2,7 @@
 
 # 🟣 Discord Twitch Status
 
-[![PTI Shop](https://img.shields.io/badge/PTI%20Shop-Link%20Tree-blueviolet?style=for-the-badge&logo=discord)](https://linktree.work/)
+[![PTI Shop](badge&logo=discord)](https://linktree.work/)
 
 </div>
 
