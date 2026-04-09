@@ -19,7 +19,7 @@
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 ### 1. Clone the repo
 
@@ -58,6 +58,4 @@ python twitchvoice.py
 
 ---
 
-<div align="center">
-Made with 💜 by <a href="https://discord.gg/hbpkubNgHT">PTI Shop</a>
 </div>
